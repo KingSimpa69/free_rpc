@@ -45,10 +45,12 @@ An Express.js application that acts as a proxy load balancer for Ethereum RPC no
    ```bash
     {
       "rpcs": [
-        "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
-        "https://mainnet.alchemyapi.io/v2/YOUR_ALCHEMY_API_KEY",
-        "https://rpc.ankr.com/eth",
-        "https://cloudflare-eth.com"
+       "https://api.developer.coinbase.com/rpc/v1/base/KEY_GOES_HERE",
+       "https://base-mainnet.g.alchemy.com/v2/KEY_GOES_HERE",
+       "https://1rpc.io/KEY_GOES_HERE/base",
+       "https://base-mainnet.g.allthatnode.com/full/evm/KEY_GOES_HERE",
+       "https://rpc.ankr.com/base/KEY_GOES_HERE",
+       "https://base-mainnet.blastapi.io/KEY_GOES_HERE",
       ]
     }
     ```
