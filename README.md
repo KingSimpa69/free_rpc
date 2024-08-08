@@ -20,7 +20,7 @@ An Express.js application that acts as a proxy load balancer for Ethereum RPC no
 
    ```bash
    git clone https://github.com/KingSimpa69/free_rpc.git
-   cd ethereum-rpc-proxy
+   cd free_rpc
    ```
 
 2. **Install dependencies:**
