@@ -73,7 +73,7 @@ An Express.js application that acts as a proxy load balancer for Ethereum RPC no
 
 3. **Endpoints:**
 
-    (POST) =>/ : Forward JSON-RPC requests to Ethereum nodes.
+    (POST) => localhost:6969/ : Forward JSON-RPC requests to Ethereum nodes.
 
-    (GET) =>/ : Check the status and configuration of the proxy.
+    (GET) => localhost:6969/ : Check the status and configuration of the proxy.
 
