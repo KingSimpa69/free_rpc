@@ -28,8 +28,16 @@ An Express.js application that acts as a proxy load balancer for Ethereum RPC no
    ```bash
    npm install
     ```
+   or
+   ```bash
+   pnpm install
+    ```
+      or
+   ```bash
+   yarn install
+    ```
 
-3. **Configure RPC nodes:**
+4. **Configure RPC nodes:**
 
     Modify the file named RPCS.json in the root directory with the your RPCs:  
     Various providers with free tiers **[HERE](https://docs.base.org/docs/tools/node-providers)**
@@ -52,8 +60,16 @@ An Express.js application that acts as a proxy load balancer for Ethereum RPC no
    ```bash
    npm start
     ```
+   or
+   ```bash
+   pnpm start
+    ```
+   or
+   ```bash
+   yarn start
+    ```
 
-2. **Endpoints:**
+3. **Endpoints:**
 
     (POST) =>/ : Forward JSON-RPC requests to Ethereum nodes.
 
