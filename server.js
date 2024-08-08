@@ -21,12 +21,11 @@ app.post('/', async (req, res) => {
         'Content-Type': 'application/json',
       },
     });
+    console.log(`request made to ${rpcUrl}`)
     res.json(response.data);
   } catch (error) {
     console.log(`Error making a request to ${rpcUrl}`)
     res.status(500).json({ error: 'Failed to forward the request' });
-  } finally {
-    console.log(`request made to ${rpcUrl}`)
   }
 });
 
