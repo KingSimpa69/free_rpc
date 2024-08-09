@@ -1,7 +1,6 @@
 [
     "https://api.developer.coinbase.com/rpc/v1/base/KEY_GOES_HERE",
     "https://base-mainnet.g.alchemy.com/v2/KEY_GOES_HERE",
-    "https://1rpc.io/KEY_GOES_HERE/base",
     "https://base-mainnet.g.allthatnode.com/full/evm/KEY_GOES_HERE",
     "https://rpc.ankr.com/base/KEY_GOES_HERE",
     "https://base-mainnet.blastapi.io/KEY_GOES_HERE",
@@ -15,7 +14,5 @@
     "https://base.w3node.com/KEY_GOES_HERE/api",
     "https://api.stackup.sh/v1/node/KEY_GOES_HERE",
     "https://base.gateway.tenderly.co/KEY_GOES_HERE",
-    "https://base-mainnet.unifra.io/v1/KEY_GOES_HERE",
     "https://mainnet.base.validationcloud.io/v1/KEY_GOES_HERE"
-
 ]
