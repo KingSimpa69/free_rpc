@@ -77,3 +77,7 @@ An Express.js application that acts as a proxy load balancer for Ethereum RPC no
 
     (GET) => localhost:6969/ : Check the status and configuration of the proxy.
 
+![image](https://github.com/user-attachments/assets/102aad4f-db15-4df4-99d8-2882e984a19c)
+
+
+
